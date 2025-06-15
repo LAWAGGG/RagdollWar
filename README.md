@@ -1,6 +1,6 @@
 # 🎮 RagdollWar! - Unity Multiplayer Game (Photon Network)
 
-Selamat datang di **Ragdoll Fight**, game aksi multiplayer berbasis Unity dengan sistem ragdoll yang kocak dan chaos! Game ini menggunakan **Photon Network** untuk pengalaman real-time yang mulus bersama teman-temanmu!
+Selamat datang di **RagdollWar!**, game aksi multiplayer berbasis Unity dengan sistem ragdoll yang kocak dan chaos! Game ini menggunakan **Photon Network** untuk pengalaman real-time yang mulus bersama teman-temanmu!
 
 ---
 
